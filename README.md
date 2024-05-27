@@ -1,8 +1,5 @@
 # 👋 Hi, I’m Maria Eduarda Barone [@dudinhab](https://github.com/dudinhab)
 
-
-<img src="Img/perfil.jpg" width="150">
-
 - 📫 How to reach me?  
 [LinkedIn](https://www.linkedin.com/in/maria-eduarda-barone/) | [Instagram](https://instagram.com/dudsbarone) 
 - 📃 My [curriculum](https://dudinhab.github.io/curriculum-vitae/)  
