@@ -25,7 +25,7 @@ Learning journey: (last update - 29/May/2024)
 
       
 
-**🌱 I’m currently learning: _Java Basic_**
+**🌱 I’m currently learning: _Java Basic - Method_**
 
 ---
 # 😄 Pronouns: she/her
