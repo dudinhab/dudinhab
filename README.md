@@ -8,7 +8,7 @@
 ---
 
 #  👀 I’m interested in becoming a developer
-Learning journey: (last update - 29/May/2024) 
+Learning journey: (last update - 03/Jun/2024) 
 <img align="right" src="Img/octocat-2.png" width="100">
 - [x] ~~Git and Git-Hub~~ 
 - [x] ~~HTML~~
