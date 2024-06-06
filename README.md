@@ -8,7 +8,7 @@
 ---
 
 #  👀 I’m interested in becoming a developer
-Learning journey: (last update - 03/Jun/2024) 
+Learning journey: (last update - 06/Jun/2024) 
 <img align="right" src="Img/octocat-2.png" width="100">
 - [x] ~~Git and Git-Hub~~ 
 - [x] ~~HTML~~
@@ -25,7 +25,7 @@ Learning journey: (last update - 03/Jun/2024)
 
       
 
-**🌱 I’m currently learning: _Java Basic - Method_**
+**🌱 I’m currently learning: _Java Basic - Array_**
 
 ---
 # 😄 Pronouns: she/her
