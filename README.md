@@ -25,7 +25,7 @@ Learning journey: (last update - 25/Jun/2024)
 
       
 
-**🌱 I’m currently learning: _Java Advanced - Exceptions_**
+**🌱 I’m currently learning: _Java Advanced - Collections**
 
 ---
 # 😄 Pronouns: she/her
