@@ -16,16 +16,16 @@ Learning journey: (last update - 19/Jul/2024)
 - [x] ~~JavaScipt basic~~
 - [x] ~~Java basic~~
 - [x] ~~Java advanced~~
-- [ ] SQL
+- [ ] **SQL**
 - [ ] Spring Boot
-- [ ] React
+- [ ] **React**
 - [ ] Node
 - [ ] TypeScript
 - [ ] JavaScript advanced
 
       
 
-**🌱 I’m currently learning: _SQL_**
+**🌱 I’m currently learning: _SQL - JOIN_ & _React - Introduction_**
 
 ---
 # 😄 Pronouns: she/her
