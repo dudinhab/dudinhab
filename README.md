@@ -8,7 +8,7 @@
 ---
 
 #  👀 I’m interested in becoming a developer
-Learning journey: (last update - 12/Nov/2024) 
+Learning journey: (last update - 23/Feb/2025) 
 <img align="right" src="Img/octocat-2.png" width="100">
 - [x] ~~Git and Git-Hub~~ 
 - [x] ~~HTML~~
@@ -17,7 +17,8 @@ Learning journey: (last update - 12/Nov/2024)
 - [x] ~~Java basic~~
 - [x] ~~Java advanced~~
 - [x] ~~SQL~~
-- [ ] **Spring Boot**
+- [x] ~~Spring Boot~~
+- [ ] **C#**
 - [ ] React
 - [ ] Node
 - [ ] TypeScript
@@ -25,7 +26,7 @@ Learning journey: (last update - 12/Nov/2024)
 
       
 
-**🌱 I’m currently learning: _Spring Boot - Test Mockito_**
+**🌱 I’m currently learning: _C# - Introduction_**
 
 ---
 # 😄 Pronouns: she/her
