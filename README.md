@@ -19,6 +19,7 @@ Learning journey: (last update - 26/Mar/2025)
 - [x] ~~SQL~~
 - [x] ~~Spring Boot~~
 - [x] ~~C# - beginner~~
+- [ ] **.NET MAUI**
 - [ ] React
 - [ ] Node
 - [ ] TypeScript
@@ -26,7 +27,7 @@ Learning journey: (last update - 26/Mar/2025)
 
       
 
-**🌱 I’m currently learning: __**
+**🌱 I’m currently learning: _.NET MAUI_**
 
 ---
 # 😄 Pronouns: she/her
